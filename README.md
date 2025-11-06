@@ -1,1 +1,1 @@
-### Added first lab of Java subject
+### Added second lab of Java subject
